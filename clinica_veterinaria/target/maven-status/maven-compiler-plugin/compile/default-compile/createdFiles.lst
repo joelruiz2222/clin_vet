@@ -1,0 +1,12 @@
+com\joel2222\clinica_veterinaria\repository\IMascotaRepository.class
+com\joel2222\clinica_veterinaria\service\IMascotaService.class
+com\joel2222\clinica_veterinaria\controller\DueñoController.class
+com\joel2222\clinica_veterinaria\repository\IDueñoRepository.class
+com\joel2222\clinica_veterinaria\ClinicaVeterinariaApplication.class
+com\joel2222\clinica_veterinaria\service\MascotaService.class
+com\joel2222\clinica_veterinaria\entity\Dueño.class
+com\joel2222\clinica_veterinaria\service\DueñoService.class
+com\joel2222\clinica_veterinaria\controller\MascotaController.class
+com\joel2222\clinica_veterinaria\entity\Mascota.class
+com\joel2222\clinica_veterinaria\dto\MascotaDTO.class
+com\joel2222\clinica_veterinaria\service\IDueñoService.class

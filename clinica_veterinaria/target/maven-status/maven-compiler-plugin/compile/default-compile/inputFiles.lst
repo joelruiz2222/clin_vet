@@ -1,0 +1,12 @@
+C:\Users\Joel\Downloads\clinica_veterinaria\clinica_veterinaria\src\main\java\com\joel2222\clinica_veterinaria\ClinicaVeterinariaApplication.java
+C:\Users\Joel\Downloads\clinica_veterinaria\clinica_veterinaria\src\main\java\com\joel2222\clinica_veterinaria\controller\DueñoController.java
+C:\Users\Joel\Downloads\clinica_veterinaria\clinica_veterinaria\src\main\java\com\joel2222\clinica_veterinaria\controller\MascotaController.java
+C:\Users\Joel\Downloads\clinica_veterinaria\clinica_veterinaria\src\main\java\com\joel2222\clinica_veterinaria\dto\MascotaDTO.java
+C:\Users\Joel\Downloads\clinica_veterinaria\clinica_veterinaria\src\main\java\com\joel2222\clinica_veterinaria\entity\Dueño.java
+C:\Users\Joel\Downloads\clinica_veterinaria\clinica_veterinaria\src\main\java\com\joel2222\clinica_veterinaria\entity\Mascota.java
+C:\Users\Joel\Downloads\clinica_veterinaria\clinica_veterinaria\src\main\java\com\joel2222\clinica_veterinaria\repository\IDueñoRepository.java
+C:\Users\Joel\Downloads\clinica_veterinaria\clinica_veterinaria\src\main\java\com\joel2222\clinica_veterinaria\repository\IMascotaRepository.java
+C:\Users\Joel\Downloads\clinica_veterinaria\clinica_veterinaria\src\main\java\com\joel2222\clinica_veterinaria\service\DueñoService.java
+C:\Users\Joel\Downloads\clinica_veterinaria\clinica_veterinaria\src\main\java\com\joel2222\clinica_veterinaria\service\IDueñoService.java
+C:\Users\Joel\Downloads\clinica_veterinaria\clinica_veterinaria\src\main\java\com\joel2222\clinica_veterinaria\service\IMascotaService.java
+C:\Users\Joel\Downloads\clinica_veterinaria\clinica_veterinaria\src\main\java\com\joel2222\clinica_veterinaria\service\MascotaService.java
